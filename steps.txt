@@ -1,0 +1,2 @@
+1.after creater a folder, open the folder in vs code.
+2.git init->creates .git file which implies this is a repository. deleting .git removes the repository status of the folder.
